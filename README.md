@@ -79,6 +79,5 @@ El idioma en el que se escribieron los cambios fue en español, por tanto, las s
 
 ---
 
-## IMAGEN DEL PORTAFOLIO FINAL
-
-![Portafolio final](img/capturas/portafolio-final.png)
+## PAGINA PARA VER EL RESULTADO:
+https://oliver3141592.github.io/portafolio/
